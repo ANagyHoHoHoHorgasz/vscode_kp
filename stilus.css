@@ -33,6 +33,7 @@ a {
     border-color: darkviolet;
     background-color: darkviolet;
     color: mintcream;
+    border-radius: 10px;
 }
 
 a:hover {
