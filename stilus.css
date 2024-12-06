@@ -1,0 +1,26 @@
+body {
+    background-color: bisque;
+    color: black;
+    }
+h2 {
+    font-size: 18pt;
+    }
+p {
+    font-size: 12pt;
+    }
+
+#Scottish {
+    color: darkblue;
+    }
+
+#Savannah {
+    color: blue;
+    }
+
+#Bengali {
+    color: violet;
+    }
+
+.piros {
+    color: red;
+    }
