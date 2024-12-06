@@ -1,9 +1,10 @@
 body {
     background-color: bisque;
     color: black;
+    border: 10px;
     }
 h2 {
-    font-size: 18pt;
+    font-size: 18pt
     }
 p {
     font-size: 12pt;
@@ -24,3 +25,17 @@ p {
 .piros {
     color: red;
     }
+a {
+    text-decoration: none;
+    border-style: solid;
+    padding: 10px;
+    margin: 20px;
+    border-color: darkviolet;
+    background-color: darkviolet;
+    color: mintcream;
+}
+
+a:hover {
+    border-color: hotpink;
+    background-color: hotpink;
+  }
