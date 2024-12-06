@@ -2,6 +2,10 @@ body {
     background-color: bisque;
     color: black;
     border: 10px;
+    width: 80%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 100px;
     }
 h2 {
     font-size: 18pt
